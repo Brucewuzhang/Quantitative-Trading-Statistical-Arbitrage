@@ -1,2 +1,4 @@
 # Quantitative-Trading-Statistical-Arbitrage
-Quantitative trading project
+  This is a learning Quantitative trading project. I am recently reading a book called "Quantitative trading" written by Dr. Ernest P.Chan. The data analysis tool used in this book is mainly matlab. I am not familiar with matlab. The reason that I want to start this project is that I am good at python and python is very popular in quantitative finance industry nowadays.
+  Some suggestions: If you know nothing about finance, you'd better first learn some financial engineering before you start reading this book. When I first read this book, I don't understand why the author do this or why the author do that. And I quited reading very soon. After taking two financial engineering courses, everything in that book makes sense to me now. 
+  I do this project to make sure that I understand the ideas in that book and to practice my python skills.
